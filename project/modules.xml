@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="module/gengine/core" name="aurora-fw/module-gengine-core" />
+	<project path="module/gengine/opengl" name="aurora-fw/module-gengine-opengl" />
+	<project path="module/gengine/vulkan" name="aurora-fw/module-gengine-vulkan" />
+	<project path="module/gengine/direct3d" name="aurora-fw/module-gengine-direct3d" />
+	<project path="module/gui" name="aurora-fw/module-gui" />
+	<project path="module/io" name="aurora-fw/module-io" />
+	<project path="module/ai" name="aurora-fw/module-ai" />
+	<project path="module/audio" name="aurora-fw/module-audio" />
+	<project path="module/image" name="aurora-fw/module-image" />
+	<project path="module/crypto" name="aurora-fw/module-crypto" />
+	<project path="module/cli" name="aurora-fw/module-cli" />
+	<project path="module/math" name="aurora-fw/module-math" />
+	<project path="module/netsocks" name="aurora-fw/module-netsocks" />
+	<project path="module/core" name="aurora-fw/module-core" />
+	<project path="module/tlib" name="aurora-fw/module-tlib" />
+</manifest>
