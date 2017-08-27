@@ -4,6 +4,9 @@
 	<project path="module/gengine/opengl" name="aurora-fw/module-gengine-opengl" />
 	<project path="module/gengine/vulkan" name="aurora-fw/module-gengine-vulkan" />
 	<project path="module/gengine/direct3d" name="aurora-fw/module-gengine-direct3d" />
+	<project path="module/gengine/3d" name="aurora-fw/module-gengine-3d" />
+	<project path="module/gengine/2d" name="aurora-fw/module-gengine-2d" />
+	<project path="module/gengine/physics" name="aurora-fw/module-gengine-physics" />
 	<project path="module/gui" name="aurora-fw/module-gui" />
 	<project path="module/io" name="aurora-fw/module-io" />
 	<project path="module/ai" name="aurora-fw/module-ai" />
