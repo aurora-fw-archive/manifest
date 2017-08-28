@@ -4,7 +4,7 @@
     <remote  name="private" fetch="ssh://git@github.com" />
     <remote name="freedesktop" fetch="https://anongit.freedesktop.org/git" />
     <remote name="gnome" fetch="git://git.gnome.org" />
-    <default revision="master" remote="private" sync-c="true" sync-j="4" />
+    <default revision="master" remote="github" sync-c="true" sync-j="4" />
 
     <project path="website" name="aurora-fw/website" />
     <project path="docs" name="aurora-fw/docs" >
