@@ -5,4 +5,5 @@
 	<project path="apps/tests/gui" name="aurora-fw/app-tests-gui" />
 	<project path="apps/tests/crypto" name="aurora-fw/app-tests-crypto" />
 	<project path="apps/tests/gengine" name="aurora-fw/app-tests-gengine" />
+	<project path="apps/sdk" name="aurora-fw/app-sdk" />
 </manifest>
