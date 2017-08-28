@@ -5,7 +5,7 @@ familiar with [Git](https://git-scm.com/) and [Repo](https://source.android.com/
 
 To initialize your local repository using `repo`, use a command like this:
 
-    repo init -u https://github.com/aurora-fw/manifest.git -b dev
+    repo init -u https://github.com/aurora-fw/manifest.git -b master
 
 Then to sync up:
 
