@@ -10,7 +10,7 @@
     <project path="docs" name="aurora-fw/docs" >
         <linkfile src="INSTALL.md" dest="INSTALL.md" />
     </project>
-    <project path="ci" name="aurora-fw/docs" />
+    <project path="ci" name="aurora-fw/ci" />
     <project path="build" name="aurora-fw/build" />
 
     <include name="project/modules.xml" />
