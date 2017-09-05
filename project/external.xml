@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+<!--
 	<project path="external/glfw" name="glfw/glfw" revision="refs/tags/3.2.1"/>
 	<project path="external/gtk" name="gtk+" remote="gnome" revision="refs/tags/3.22.19" />
 	<project path="external/pkg-config" name="pkg-config" remote="freedesktop" />
 	<project path="external/glew" name="nigels-com/glew" />
 	<project path="external/openal" name="kcat/openal-soft" />
+-->
 </manifest>
