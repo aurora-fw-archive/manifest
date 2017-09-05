@@ -11,7 +11,9 @@
         <linkfile src="INSTALL.md" dest="INSTALL.md" />
     </project>
     <project path="ci" name="aurora-fw/ci" />
-    <project path="build" name="aurora-fw/build" />
+    <project path="build" name="aurora-fw/build" >
+        <linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
+    </project>
 
     <include name="project/modules.xml" />
     <include name="project/apps.xml" />
