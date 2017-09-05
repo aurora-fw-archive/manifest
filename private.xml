@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="ssh://git@github.com"/>
+    <remote name="freedesktop" fetch="https://anongit.freedesktop.org/git" />
+    <remote name="gnome" fetch="git://git.gnome.org" />
+    <default revision="master" remote="github" sync-c="true" />
+
+    <project path="website" name="aurora-fw/website" />
+    <project path="docs" name="aurora-fw/docs" >
+        <linkfile src="INSTALL.md" dest="INSTALL.md" />
+    </project>
+    <project path="ci" name="aurora-fw/ci" />
+    <project path="build" name="aurora-fw/build" >
+        <linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
+    </project>
+
+    <include name="project/modules.xml" />
+    <include name="project/apps.xml" />
+    <include name="project/external.xml" />
+</manifest>
