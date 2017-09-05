@@ -12,5 +12,6 @@
     </project>
 
     <include name="project/modules.xml" />
+    <include name="project/apps.xml" />
     <include name="project/external.xml" />
 </manifest>
