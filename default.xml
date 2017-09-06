@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github" fetch="https://github.com"/>
+    <remote name="private" fetch="ssh://git@github.com"/>
     <remote name="freedesktop" fetch="https://anongit.freedesktop.org/git" />
     <remote name="gnome" fetch="git://git.gnome.org" />
     <default revision="master" remote="github" sync-c="true" />
