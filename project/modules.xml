@@ -5,6 +5,7 @@
 	<project path="modules/core" name="aurora-fw/module-core" />
 	<project path="modules/cli" name="aurora-fw/module-cli" />
 	<project path="modules/crypto" name="aurora-fw/module-crypto" />
+	<project path="modules/gamedev" name="aurora-fw/module-gamedev" />
 	
 	<project path="modules/gengine/2d" name="aurora-fw/module-gengine-2d" />
 	<project path="modules/gengine/3d" name="aurora-fw/module-gengine-3d" />
