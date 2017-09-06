@@ -11,6 +11,8 @@
     </project>
     <project path="ci" name="aurora-fw/ci" />
     <project path="build" name="aurora-fw/build" >
+        <linkfile src="LICENSE" dest="LICENSE" />
+        <copyfile src=".gitignore" dest=".gitignore" />
         <copyfile src="CMakeLists.txt" dest="CMakeLists.txt" />
     </project>
 
