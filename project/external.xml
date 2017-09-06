@@ -4,5 +4,6 @@
 	<project path="external/gtk" name="gtk+" remote="gnome" revision="refs/tags/3.22.19" />
 	<project path="external/pkg-config" name="pkg-config" remote="freedesktop" />
 	<project path="external/glew" name="nigels-com/glew" revision="master" />
+	<project path="external/vulkan" name="KhronosGroup/Vulkan-LoaderAndValidationLayers" revision="master" />
 	<!-- <project path="external/openal" name="kcat/openal-soft" revision="master" /> -->
 </manifest>
