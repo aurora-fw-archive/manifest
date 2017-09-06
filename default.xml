@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github" fetch="https://github.com"/>
-    <remote name="private" fetch="ssh://git@github.com"/>
+    <remote name="github" fetch="https://github.com" pushurl="ssh://git@github.com"/>
     <remote name="freedesktop" fetch="https://anongit.freedesktop.org/git" />
     <remote name="gnome" fetch="git://git.gnome.org" />
-    <default revision="master" remote="github" sync-c="true" />
+    <default revision="master" remote="github" sync-c="true" sync-j="6"/>
 
     <project path="website" name="aurora-fw/website" />
     <project path="docs" name="aurora-fw/docs" >
@@ -12,7 +11,7 @@
     </project>
     <project path="ci" name="aurora-fw/ci" />
     <project path="build" name="aurora-fw/build" >
-        <linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
+        <copyfile src="CMakeLists.txt" dest="CMakeLists.txt" />
     </project>
 
     <include name="project/modules.xml" />
