@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com" pushurl="ssh://git@github.com"/>
+    <remote name="freedesktop" fetch="https://anongit.freedesktop.org/git" />
+    <remote name="gnome" fetch="git://git.gnome.org" />
+    <default revision="master" remote="github" sync-c="true" sync-j="6"/>
+    
+    <project path="glfw" name="glfw/glfw" revision="refs/tags/3.2.1" />
+    <project path="gtk3" name="gtk+" remote="gnome" revision="refs/tags/3.22.19" />
+    <project path="pkg-config" name="pkg-config" remote="freedesktop" />
+    <project path="glew" name="nigels-com/glew" revision="master" />
+    <project path="vulkan" name="KhronosGroup/Vulkan-LoaderAndValidationLayers" revision="master" />
+    <project path="vulkan" name="KhronosGroup/Vulkan-Hpp" revision="master" />
+    <project path="openal" name="kcat/openal-soft" revision="master" />
+</manifest>

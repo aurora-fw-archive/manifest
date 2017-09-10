@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="ci/ci" name="aurora-fw/ci" />
+    <project path="ci/travis/docker" name="aurora-fw/ci_travis_docker" />
+    <project path="ci/travis/archlinux" name="aurora-fw/ci_travis_archlinux" />
+    <project path="docker/archlinux" name="aurora-fw/docker_archlinux" />
+    <project path="docker/archlinux-arm" name="aurora-fw/docker_archlinux-arm" />
+    <project path="docker/travis/archlinux" name="aurora-fw/docker_travis_archlinux" />
+    <project path="manifest" name="aurora-fw/manifest" />
+</manifest>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="modules/ai" name="aurora-fw/module-ai" />
-	<project path="modules/audio" name="aurora-fw/module-audio" />
-	<project path="modules/core" name="aurora-fw/module-core" />
-	<project path="modules/cli" name="aurora-fw/module-cli" />
-	<project path="modules/crypto" name="aurora-fw/module-crypto" />
-	<project path="modules/gamedev" name="aurora-fw/module-gamedev" />
+	<project path="modules/ai" name="aurora-fw/module_ai" />
+	<project path="modules/audio" name="aurora-fw/module_audio" />
+	<project path="modules/core" name="aurora-fw/module_core" />
+	<project path="modules/cli" name="aurora-fw/module_cli" />
+	<project path="modules/crypto" name="aurora-fw/module_crypto" />
+	<project path="modules/gamedev" name="aurora-fw/module_gamedev" />
 	
-	<project path="modules/gengine/2d" name="aurora-fw/module-gengine-2d" />
-	<project path="modules/gengine/3d" name="aurora-fw/module-gengine-3d" />
-	<project path="modules/gengine/core" name="aurora-fw/module-gengine-core" />
-	<project path="modules/gengine/physics" name="aurora-fw/module-gengine-physics" />
+	<project path="modules/gengine/2d" name="aurora-fw/module_gengine_2d" />
+	<project path="modules/gengine/3d" name="aurora-fw/module_gengine_3d" />
+	<project path="modules/gengine/core" name="aurora-fw/module_gengine_core" />
+	<project path="modules/gengine/physics" name="aurora-fw/module_gengine_physics" />
 	
-	<project path="modules/gengine/direct3d" name="aurora-fw/module-gengine-direct3d" />
-	<project path="modules/gengine/opengl" name="aurora-fw/module-gengine-opengl" />
-	<project path="modules/gengine/vulkan" name="aurora-fw/module-gengine-vulkan" />
+	<project path="modules/gengine/direct3d" name="aurora-fw/module_gengine_direct3d" />
+	<project path="modules/gengine/opengl" name="aurora-fw/module_gengine_opengl" />
+	<project path="modules/gengine/vulkan" name="aurora-fw/module_gengine_vulkan" />
 	
-	<project path="modules/gui" name="aurora-fw/module-gui" />
-	<project path="modules/image" name="aurora-fw/module-image" />
-	<project path="modules/io" name="aurora-fw/module-io" />
-	<project path="modules/math" name="aurora-fw/module-math" />
-	<project path="modules/metadata" name="aurora-fw/module-metadata" />
-	<project path="modules/netsocks" name="aurora-fw/module-netsocks" />
-	<project path="modules/parser" name="aurora-fw/module-parser" />
-	<project path="modules/tlib" name="aurora-fw/module-tlib" />
+	<project path="modules/gui" name="aurora-fw/module_gui" />
+	<project path="modules/image" name="aurora-fw/module_image" />
+	<project path="modules/io" name="aurora-fw/module_io" />
+	<project path="modules/math" name="aurora-fw/module_math" />
+	<project path="modules/metadata" name="aurora-fw/module_metadata" />
+	<project path="modules/netsocks" name="aurora-fw/module_netsocks" />
+	<project path="modules/parser" name="aurora-fw/module_parser" />
+	<project path="modules/tlib" name="aurora-fw/module_tlib" />
 </manifest>

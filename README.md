@@ -11,4 +11,8 @@ Then to sync up:
 
     repo sync
 
+If you want to pull `extras` too make this command after sync:
+
+    mkdir -p local_manifests && curl --url https://raw.githubusercontent.com/aurora-fw/manifest/master/extras.xml --output local_manifests/extras.xml
+
 Please see the docs for building instructions.
