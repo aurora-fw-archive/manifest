@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com" pushurl="ssh://git@github.com"/>
+    <default revision="dev" remote="github" sync-j="6"/>
+
+    <project path="ide" name="aurora-fw/ide" />
+    <project path="docker/aurora" name="aurora-fw/docker" />
+    <project path="web/status" name="aurora-fw/status" />
+    <project path="web/website" name="aurora-fw/aurora-fw.github.io" />
+    <project path="docs" name="aurora-fw/docs" >
+        <linkfile src="INSTALL.md" dest="INSTALL.md" />
+    </project>
+    <project path="build" name="aurora-fw/build" >
+        <linkfile src="LICENSE" dest="LICENSE" />
+        <copyfile src=".gitignore" dest=".gitignore" />
+        <copyfile src="CMakeLists.txt" dest="CMakeLists.txt" />
+    </project>
+    <project path="aurora" name="aurora-fw/aurora" >
+        <linkfile src="README.md" dest="README.md" />
+    </project>
+
+    <include name="project/modules.xml" />
+    <include name="project/apps.xml" />
+</manifest>
