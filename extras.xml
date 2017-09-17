@@ -4,7 +4,8 @@
     <project path="ci/travis/docker" name="aurora-fw/ci_travis_docker" />
     <project path="ci/travis/archlinux" name="aurora-fw/ci_travis_archlinux" />
     <project path="docker/archlinux" name="aurora-fw/docker_archlinux" />
-    <project path="docker/archlinux-arm" name="aurora-fw/docker_archlinux-arm" />
+    <project path="docker/archlinux-armhf" name="aurora-fw/docker_archlinux-armhf" />
+    <project path="docker/archlinux-arm64" name="aurora-fw/docker_archlinux-arm64" />
     <project path="docker/travis/archlinux" name="aurora-fw/docker_travis_archlinux" />
     <project path="manifest" name="aurora-fw/manifest" />
 </manifest>
