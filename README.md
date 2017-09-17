@@ -13,7 +13,7 @@ Then to sync up:
 
 If you want, you can run a script to make this steps automatically:
 
-    curl --url https://raw.githubusercontent.com/aurora-fw/manifest/master/init.sh -- output init.sh && chmod u+x init.sh && ./init.sh
+    curl --url https://raw.githubusercontent.com/aurora-fw/manifest/master/init.sh --output init.sh && chmod u+x init.sh && sh ./init.sh
 
 Also if you want to pull `extras` too make this command after sync:
 
