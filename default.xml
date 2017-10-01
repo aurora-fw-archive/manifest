@@ -14,6 +14,8 @@
 		<linkfile src="LICENSE" dest="LICENSE" />
 		<linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
 	</project>
+	<project path="cmake/common" name="aurora-fw/cmake_common" />
+	<project path="cmake/freeimage" name="aurora-fw/cmake_freeimage" />
 	<project path="aurora" name="aurora-fw/aurora" >
 		<linkfile src="README.md" dest="README.md" />
 	</project>
