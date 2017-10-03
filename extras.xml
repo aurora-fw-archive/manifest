@@ -9,4 +9,5 @@
 	<project path="docker/archlinux-arm64" name="aurora-fw/docker_archlinux-arm64" />
 	<project path="docker/travis/archlinux" name="aurora-fw/docker_travis_archlinux" />
 	<project path="manifest" name="aurora-fw/manifest" />
+	<project path="design" name="aurora-fw/design" />
 </manifest>
