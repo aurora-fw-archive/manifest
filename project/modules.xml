@@ -23,5 +23,5 @@
 	<project path="modules/metadata" name="aurora-fw/module_metadata" />
 	<project path="modules/netsocks" name="aurora-fw/module_netsocks" />
 	<project path="modules/parser" name="aurora-fw/module_parser" />
-	<project path="modules/tlib" name="aurora-fw/module_tlib" />
+	<project path="modules/stdl" name="aurora-fw/module_stdl" />
 </manifest>
