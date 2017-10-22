@@ -11,6 +11,7 @@
 	<project path="modules/gengine/3d" name="aurora-fw/module_gengine_3d" />
 	<project path="modules/gengine/core" name="aurora-fw/module_gengine_core" />
 	<project path="modules/gengine/physics" name="aurora-fw/module_gengine_physics" />
+	<project path="modules/gengine/shaders" name="aurora-fw/module_gengine_shaders" />
 	
 	<project path="modules/gengine/direct3d" name="aurora-fw/module_gengine_direct3d" />
 	<project path="modules/gengine/opengl" name="aurora-fw/module_gengine_opengl" />
