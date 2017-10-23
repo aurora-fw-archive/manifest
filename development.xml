@@ -6,6 +6,7 @@
 	<project path="ide" name="aurora-fw/ide" >
 		<linkfile src=".vscode/launch.json" dest=".vscode/launch.json" />
 		<linkfile src="aurora-fw.cbp" dest="aurora-fw.cbp" />
+		<linkfile src="aurora-fw.layout" dest="aurora-fw.layout" />
 	</project>
 	<project path="docker/aurora" name="aurora-fw/docker" />
 	<project path="web/status" name="aurora-fw/status" />
