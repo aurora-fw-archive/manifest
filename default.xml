@@ -3,7 +3,10 @@
 	<remote name="github" fetch="https://github.com" pushurl="ssh://git@github.com"/>
 	<default revision="master" remote="github" sync-j="6"/>
 
-	<project path="ide" name="aurora-fw/ide" />
+	<project path="ide" name="aurora-fw/ide" >
+		<linkfile src=".vscode/launch.json" dest=".vscode/launch.json" />
+		<linkfile src="aurora-fw.cbp" dest="aurora-fw.cbp" />
+	</project>
 	<project path="docker/aurora" name="aurora-fw/docker" />
 	<project path="web/status" name="aurora-fw/status" />
 	<project path="web/website" name="aurora-fw/aurora-fw.github.io" />
@@ -13,7 +16,6 @@
 	<project path="build" name="aurora-fw/build" >
 		<linkfile src="LICENSE" dest="LICENSE" />
 		<linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
-		<linkfile src=".vscode/launch.json" dest=".vscode/launch.json" />
 	</project>
 	<project path="cmake/freeimage" name="aurora-fw/cmake_freeimage" />
 	<project path="aurora" name="aurora-fw/aurora" >
