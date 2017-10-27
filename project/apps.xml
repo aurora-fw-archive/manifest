@@ -2,7 +2,7 @@
 <manifest>
 	<project path="apps/sdk" name="aurora-fw/app_sdk" />
 
-	<project path="apps/tests/audio" name="aurora-fw/app_tests_audio">
+	<project path="apps/tests/audio" name="aurora-fw/app_tests_audio" />
 	<project path="apps/tests/cli" name="aurora-fw/app_tests_cli" />
 	<project path="apps/tests/crypto" name="aurora-fw/app_tests_crypto" />
 	<project path="apps/tests/gengine" name="aurora-fw/app_tests_gengine" />
