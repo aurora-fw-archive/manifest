@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project path="apps/sdk" name="aurora-fw/app_sdk" />
+
+	<project path="apps/tests/audio" name="aurora-fw/app_tests_audio">
 	<project path="apps/tests/cli" name="aurora-fw/app_tests_cli" />
 	<project path="apps/tests/crypto" name="aurora-fw/app_tests_crypto" />
 	<project path="apps/tests/gengine" name="aurora-fw/app_tests_gengine" />
 	<project path="apps/tests/gui" name="aurora-fw/app_tests_gui" />
-	<project path="apps/tests/math" name="aurora-fw/app_tests_math" />
-	<project path="apps/tests/tlib" name="aurora-fw/app_tests_tlib" />
-        <project path="apps/tests/netsocks" name="aurora-fw/app_tests_netsocks" />
 	<project path="apps/tests/image" name="aurora-fw/app_tests_image" />
-	<project path="apps/sdk" name="aurora-fw/app_sdk" />
+	<project path="apps/tests/math" name="aurora-fw/app_tests_math" />
+	<project path="apps/tests/netsocks" name="aurora-fw/app_tests_netsocks" />
+	<project path="apps/tests/tlib" name="aurora-fw/app_tests_tlib" />
 </manifest>
