@@ -19,6 +19,7 @@
 		<linkfile src="CMakeLists.txt" dest="CMakeLists.txt" />
 	</project>
 	<project path="cmake/freeimage" name="aurora-fw/cmake_freeimage" />
+	<project path="cmake/portaudio" name="aurora-fw/cmake_portaudio" />
 	<project path="aurora" name="aurora-fw/aurora" >
 		<linkfile src="README.md" dest="README.md" />
 	</project>
