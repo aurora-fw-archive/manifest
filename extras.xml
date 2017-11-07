@@ -3,7 +3,6 @@
 	<project path="ci/ci" name="aurora-fw/ci" />
 	<project path="ci/travis/docker" name="aurora-fw/ci_travis_docker" />
 	<project path="ci/travis/archlinux" name="aurora-fw/ci_travis_archlinux" />
-	<project path="cmake/common" name="aurora-fw/cmake_common" />
 	<project path="docker/archlinux" name="aurora-fw/docker_archlinux" />
 	<project path="docker/archlinux-armhf" name="aurora-fw/docker_archlinux-armhf" />
 	<project path="docker/archlinux-arm64" name="aurora-fw/docker_archlinux-arm64" />
