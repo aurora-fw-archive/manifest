@@ -10,5 +10,5 @@
 	<project path="apps/tests/image" name="aurora-fw/app_tests_image" />
 	<project path="apps/tests/math" name="aurora-fw/app_tests_math" />
 	<project path="apps/tests/netsocks" name="aurora-fw/app_tests_netsocks" />
-	<project path="apps/tests/tlib" name="aurora-fw/app_tests_tlib" />
+	<project path="apps/tests/stdl" name="aurora-fw/app_tests_stdl" />
 </manifest>
