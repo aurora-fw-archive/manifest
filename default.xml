@@ -20,7 +20,7 @@
 	</project>
 	<project path="cmake/freeimage" name="aurora-fw/cmake_freeimage" />
 	<project path="cmake/portaudio" name="aurora-fw/cmake_portaudio" />
-	<project path="cmake/libsndfile" name="aurora-fw/cmake_libsndfile" />
+	<project path="cmake/sndfile" name="aurora-fw/cmake_libsndfile" />
 	<project path="cmake/aurora" name="aurora-fw/cmake_aurora" />
 	<project path="aurora" name="aurora-fw/aurora" >
 		<linkfile src="README.md" dest="README.md" />
