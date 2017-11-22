@@ -15,6 +15,7 @@
 	
 	<project path="modules/gengine/direct3d" name="aurora-fw/module_gengine_direct3d" />
 	<project path="modules/gengine/opengl" name="aurora-fw/module_gengine_opengl" />
+	<project path="modules/gengine/opengl-loader" name="aurora-fw/module_gengine_opengl-loader" />
 	<project path="modules/gengine/vulkan" name="aurora-fw/module_gengine_vulkan" />
 	
 	<project path="modules/gui" name="aurora-fw/module_gui" />
