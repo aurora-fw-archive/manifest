@@ -25,6 +25,7 @@
 	<project path="modules/metadata" name="aurora-fw/module_metadata" />
 	<project path="modules/netsocks" name="aurora-fw/module_netsocks" />
 	<project path="modules/parser" name="aurora-fw/module_parser" />
-	<project path="modules/stdl" name="aurora-fw/module_stdl" />
+	<project path="modules/stdl/stl" name="aurora-fw/module_stdl_stl" />
+	<project path="modules/stdl/libc" name="aurora-fw/module_stdl_libc" />
 	<project path="modules/corelib" name="aurora-fw/module_corelib"/>
 </manifest>
