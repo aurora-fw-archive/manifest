@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="binds/d/ai" name="aurora-fw/bind_d_ai" />
+	<project path="binds/d/audio" name="aurora-fw/bind_d_audio" />
+	<project path="binds/d/core" name="aurora-fw/bind_d_core" />
+	<project path="binds/d/cli" name="aurora-fw/bind_d_cli" />
+	<project path="binds/d/crypto" name="aurora-fw/bind_d_crypto" />
+	<project path="binds/d/gamedev" name="aurora-fw/bind_d_gamedev" />
+	
+	<project path="binds/d/gengine/2d" name="aurora-fw/bind_d_gengine_2d" />
+	<project path="binds/d/gengine/3d" name="aurora-fw/bind_d_gengine_3d" />
+	<project path="binds/d/gengine/core" name="aurora-fw/bind_d_gengine_core" />
+	<project path="binds/d/gengine/physics" name="aurora-fw/bind_d_gengine_physics" />
+	<project path="binds/d/gengine/shaders" name="aurora-fw/bind_d_gengine_shaders" />
+	
+	<project path="binds/d/gengine/direct3d" name="aurora-fw/bind_d_gengine_direct3d" />
+	<project path="binds/d/gengine/opengl" name="aurora-fw/bind_d_gengine_opengl" />
+	<project path="binds/d/gengine/opengl-loader" name="aurora-fw/bind_d_gengine_opengl-loader" />
+	<project path="binds/d/gengine/vulkan" name="aurora-fw/bind_d_gengine_vulkan" />
+	
+	<project path="binds/d/gui" name="aurora-fw/bind_d_gui" />
+	<project path="binds/d/image" name="aurora-fw/bind_d_image" />
+	<project path="binds/d/io" name="aurora-fw/bind_d_io" />
+	<project path="binds/d/math" name="aurora-fw/bind_d_math" />
+	<project path="binds/d/metadata" name="aurora-fw/bind_d_metadata" />
+	<project path="binds/d/netsocks" name="aurora-fw/bind_d_netsocks" />
+	<project path="binds/d/parser" name="aurora-fw/bind_d_parser" />
+	<project path="binds/d/stdl" name="aurora-fw/bind_d_stdl" />
+	<project path="binds/d/corelib" name="aurora-fw/bind_d_corelib"/>
+
+	<project path="binds/swig/ai" name="aurora-fw/bind_swig_ai" />
+	<project path="binds/swig/audio" name="aurora-fw/bind_swig_audio" />
+	<project path="binds/swig/core" name="aurora-fw/bind_swig_core" />
+	<project path="binds/swig/cli" name="aurora-fw/bind_swig_cli" />
+	<project path="binds/swig/crypto" name="aurora-fw/bind_swig_crypto" />
+	<project path="binds/swig/gamedev" name="aurora-fw/bind_swig_gamedev" />
+	
+	<project path="binds/swig/gengine/2d" name="aurora-fw/bind_swig_gengine_2d" />
+	<project path="binds/swig/gengine/3d" name="aurora-fw/bind_swig_gengine_3d" />
+	<project path="binds/swig/gengine/core" name="aurora-fw/bind_swig_gengine_core" />
+	<project path="binds/swig/gengine/physics" name="aurora-fw/bind_swig_gengine_physics" />
+	<project path="binds/swig/gengine/shaders" name="aurora-fw/bind_swig_gengine_shaders" />
+	
+	<project path="binds/swig/gengine/direct3d" name="aurora-fw/bind_swig_gengine_direct3d" />
+	<project path="binds/swig/gengine/opengl" name="aurora-fw/bind_swig_gengine_opengl" />
+	<project path="binds/swig/gengine/opengl-loader" name="aurora-fw/bind_swig_gengine_opengl-loader" />
+	<project path="binds/swig/gengine/vulkan" name="aurora-fw/bind_swig_gengine_vulkan" />
+	
+	<project path="binds/swig/gui" name="aurora-fw/bind_swig_gui" />
+	<project path="binds/swig/image" name="aurora-fw/bind_swig_image" />
+	<project path="binds/swig/io" name="aurora-fw/bind_swig_io" />
+	<project path="binds/swig/math" name="aurora-fw/bind_swig_math" />
+	<project path="binds/swig/metadata" name="aurora-fw/bind_swig_metadata" />
+	<project path="binds/swig/netsocks" name="aurora-fw/bind_swig_netsocks" />
+	<project path="binds/swig/parser" name="aurora-fw/bind_swig_parser" />
+	<project path="binds/swig/stdl" name="aurora-fw/bind_swig_stdl" />
+	<project path="binds/swig/corelib" name="aurora-fw/bind_swig_corelib"/>
+</manifest>

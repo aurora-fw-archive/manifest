@@ -26,5 +26,8 @@
 	</project>
 
 	<include name="project/modules.xml" />
+	<include name="project/binds.xml" />
 	<include name="project/apps.xml" />
+
+	<include name="extras.xml" />
 </manifest>
