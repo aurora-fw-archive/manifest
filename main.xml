@@ -5,6 +5,9 @@
 	<project path="ide" name="aurora-fw/ide" >
 		<linkfile src=".vscode/launch.json" dest=".vscode/launch.json" />
 		<linkfile src=".vscode/tasks.json" dest=".vscode/tasks.json" />
+		<linkfile src=".vscode/settings.json" dest=".vscode/settings.json" />
+		<linkfile src=".vscode/c_cpp_properties.json" dest=".vscode/c_cpp_properties.json" />
+		<linkfile src=".vscode/.cmaketools.json" dest=".vscode/.cmaketools.json" />
 	</project>
 	<project path="docker/aurora" name="aurora-fw/docker" />
 	<project path="web/status" name="aurora-fw/status" />
