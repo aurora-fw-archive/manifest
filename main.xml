@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="github" fetch="https://github.com" pushurl="ssh://git@github.com"/>
-	
+
 	<project path="ide" name="aurora-fw/ide" >
 		<linkfile src=".vscode/launch.json" dest=".vscode/launch.json" />
 		<linkfile src=".vscode/tasks.json" dest=".vscode/tasks.json" />
@@ -22,6 +22,11 @@
 	<project path="cmake/freeimage" name="aurora-fw/cmake_freeimage" />
 	<project path="cmake/portaudio" name="aurora-fw/cmake_portaudio" />
 	<project path="cmake/sndfile" name="aurora-fw/cmake_libsndfile" />
+	<project path="cmake/vulkan" name="aurora-fw/cmake_vulkan" />
+	<project path="cmake/osmesa" name="aurora-fw/cmake_osmesa" />
+	<project path="cmake/mir" name="aurora-fw/cmake_mir" />
+	<project path="cmake/wayland" name="aurora-fw/cmake_wayland" />
+	<project path="cmake/xkb" name="aurora-fw/cmake_xkb" />
 	<project path="cmake/aurora" name="aurora-fw/cmake_aurora" />
 	<project path="cmake/d" name="aurora-fw/cmake_d" />
 	<project path="aurora" name="aurora-fw/aurora" >
@@ -31,6 +36,4 @@
 	<include name="project/modules.xml" />
 	<include name="project/binds.xml" />
 	<include name="project/apps.xml" />
-
-	<include name="extras.xml" />
 </manifest>
