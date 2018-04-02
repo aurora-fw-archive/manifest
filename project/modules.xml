@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project path="modules/android" name="aurora-fw/module_android" />
 	<project path="modules/ai" name="aurora-fw/module_ai" />
 	<project path="modules/audio" name="aurora-fw/module_audio" />
 	<project path="modules/core" name="aurora-fw/module_core" />
