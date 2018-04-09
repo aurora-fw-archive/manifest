@@ -30,10 +30,10 @@
 	<project path="cmake/xkb" name="aurora-fw/cmake_xkb" />
 	<project path="cmake/aurora" name="aurora-fw/cmake_aurora" />
 	<project path="cmake/d" name="aurora-fw/cmake_d" />
-	<project path="toolchain/fastmake" name="aurora-fw/fastmake">
-	<project path="toolchain/aufw-glloader_legacy" name="aurora-fw/aufw-glloader_legacy">
-	<project path="toolchain/aufw-glloader" name="aurora-fw/aufw-glloader">
-	<project path="toolchain/afwmmanager" name="aurora-fw/afwmmanager">
+	<project path="toolchain/fastmake" name="aurora-fw/fastmake" />
+	<project path="toolchain/aufw-glloader_legacy" name="aurora-fw/aufw-glloader_legacy" />
+	<project path="toolchain/aufw-glloader" name="aurora-fw/aufw-glloader" />
+	<project path="toolchain/afwmmanager" name="aurora-fw/afwmmanager" />
 
 	<project path="aurora" name="aurora-fw/aurora" >
 		<linkfile src="README.md" dest="README.md" />
