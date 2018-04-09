@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<include name="main.xml" />
-	<include name="extras.xml" />
+	<include name="github/main.xml" />
+	<include name="github/extras.xml" />
 	<default revision="wip" remote="github" sync-j="8"/>
 </manifest>

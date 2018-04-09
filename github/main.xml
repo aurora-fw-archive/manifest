@@ -39,7 +39,7 @@
 		<linkfile src="README.md" dest="README.md" />
 	</project>
 
-	<include name="project/modules.xml" />
-	<include name="project/binds.xml" />
-	<include name="project/apps.xml" />
+	<include name="github/project/modules.xml" />
+	<include name="github/project/binds.xml" />
+	<include name="github/project/apps.xml" />
 </manifest>
